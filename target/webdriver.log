@@ -1,0 +1,41 @@
+INFO 10:43:54:725 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 10:43:54:749 wdm.WebDriverManager getDriversFromXml:1077 Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+INFO 10:43:55:249 wdm.Downloader downloadAndExtract:128 Downloading https://chromedriver.storage.googleapis.com/112.0.5615.49/chromedriver_win32.zip
+INFO 10:43:56:285 wdm.Downloader extract:183 Extracting binary from compressed file chromedriver_win32.zip
+INFO 10:43:56:482 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\FIGO\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+INFO 10:44:33:885 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 10:44:33:915 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\FIGO\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+INFO 11:17:16:422 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 11:17:16:456 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\FIGO\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+INFO 11:18:43:693 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 11:18:43:718 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\FIGO\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+INFO 11:18:48:118 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 11:18:48:128 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\FIGO\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+INFO 11:29:12:168 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 11:29:12:200 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\FIGO\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+INFO 11:31:02:782 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 11:31:02:821 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\FIGO\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+INFO 11:32:56:439 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 11:32:56:462 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\FIGO\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+INFO 11:45:01:350 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 11:45:01:380 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\FIGO\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+INFO 11:45:05:992 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 11:45:06:000 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\FIGO\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+INFO 11:45:11:121 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 11:45:11:130 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\FIGO\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+INFO 11:45:16:040 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 11:45:16:061 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\FIGO\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+INFO 11:47:03:357 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 11:47:03:394 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\FIGO\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+INFO 11:47:07:938 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 11:47:07:961 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\FIGO\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+INFO 11:47:11:941 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 11:47:11:953 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\FIGO\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+INFO 11:47:16:142 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 11:47:16:149 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\FIGO\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+INFO 13:57:29:089 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:57:29:120 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\FIGO\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+INFO 14:00:37:247 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:00:37:280 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\FIGO\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
+INFO 14:01:17:173 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:01:17:205 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as C:\Users\FIGO\.m2\repository\webdriver\chromedriver\win32\112.0.5615.49\chromedriver.exe
