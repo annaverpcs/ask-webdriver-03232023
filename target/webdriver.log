@@ -170,3 +170,43 @@ INFO 13:07:45:012 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using 
 INFO 13:07:45:026 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nata/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
 INFO 13:13:36:870 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
 INFO 13:13:36:881 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nata/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:04:05:763 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:04:05:787 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nata/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:04:41:775 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:04:41:788 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nata/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:05:00:976 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:05:00:990 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nata/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:08:30:429 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:08:30:441 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nata/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:23:03:557 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:23:03:568 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nata/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:23:10:241 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:23:10:244 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nata/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:23:16:584 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:23:16:587 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nata/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:23:22:656 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:23:22:660 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nata/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:23:28:975 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:23:28:977 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nata/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:24:32:655 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:24:32:669 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nata/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:24:41:363 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:24:41:367 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nata/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:24:48:062 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:24:48:065 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nata/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:24:55:873 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:24:55:876 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nata/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:25:02:562 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:25:02:566 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nata/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:25:37:907 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:25:37:923 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nata/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:25:45:139 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:25:45:142 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nata/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:25:53:741 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:25:53:743 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nata/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:26:00:308 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:26:00:310 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nata/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:26:07:051 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:26:07:054 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nata/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 14:24:17:021 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 14:24:17:033 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/nata/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver

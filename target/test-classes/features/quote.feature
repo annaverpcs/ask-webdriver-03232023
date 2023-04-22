@@ -15,6 +15,7 @@
       When I resize window to 378 and 667
       Then element with xpath "//b[@id='location']" should not be displayed
       And I wait for 3 sec
+    @quote2
   Scenario: Verify Username field
     #verify that field is requered and more 2 characters
       Given I open url "https://skryabin.com/webdriver/html/sample.html"
@@ -27,3 +28,45 @@
       And element with xpath "//label[@id='username-error']" should contain text "This field is required."
       When I type "TEST" into element with xpath "//input[@name='username']"
       Then element with xpath "//label[@id='username-error']" should not be displayed
+
+      @quote3
+      Scenario: Verify name field
+        #Verify that name field properly displays the input from pop-up window
+      Given I open url "https://skryabin.com/webdriver/html/sample.html"
+        Then I click on element with xpath "//input[@id='name']"
+        And element with xpath "//input[@id='firstName']" should be displayed
+        Then I type "First" into element with xpath "//input[@id='firstName']"
+        Then element with xpath "//input[@id='middleName']" should be displayed
+        Then I type "Middle" into element with xpath "//input[@id='middleName']"
+        Then element with xpath "//input[@id='lastName']" should be displayed
+        Then I type "Last" into element with xpath " //input[@id='lastName']"
+        And I click on element with xpath "//span[contains(text(),'Save')]"
+        Then element with xpath "//input[@id='name']" should be displayed
+        And element with xpath "//input[@id='name']" should have attribute "value" as "First Middle Last"
+
+    @quote4
+    Scenario Outline: DataDriven
+      Given I open url "https://skryabin.com/webdriver/html/sample.html"
+      Then I click on element with xpath "//input[@id='name']"
+      And element with xpath "//input[@id='firstName']" should be displayed
+      Then I type "<firstName>" into element with xpath "//input[@id='firstName']"
+      Then element with xpath "//input[@id='middleName']" should be displayed
+      Then I type "<middleName>" into element with xpath "//input[@id='middleName']"
+      Then element with xpath "//input[@id='lastName']" should be displayed
+      Then I type "<lastName>" into element with xpath "//input[@id='lastName']"
+      And I click on element with xpath "//span[contains(text(),'Save')]"
+      Then element with xpath "//input[@id='name']" should be displayed
+      And element with xpath "//input[@id='name']" should have attribute "value" as "<attributeValue>"
+      Examples:
+        | firstName  | middleName  |  lastName |   attributeValue    |
+        | First |  Middle |  Last  |   First Middle Last |
+        | First |  Middle |     |   First Middle   |
+        | 1 |  2 |  3  |   1 2 3 |
+        | A |  B |  C  |   A B C |
+        | A |  B |  C  |   ABC |
+        | A |    |  C  |   A   C |
+        | A |  B |     |   A B   |
+
+
+
+
