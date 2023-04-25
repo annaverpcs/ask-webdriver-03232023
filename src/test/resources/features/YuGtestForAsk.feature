@@ -29,6 +29,8 @@
       And I click on element with xpath "//span[contains(text(),'Save')]"
       And I wait for 3 sec
       Then element with xpath "//div[@class='quizzes']" should contain text "01 Yu G Quiz new"
+
+
       
 
       
