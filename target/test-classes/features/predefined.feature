@@ -2,9 +2,9 @@
 #ASK0323-7
 #Author: Anna Verkovskaya
 
-@predefined @regression
+@predefined
 Feature: Search Engine scenarios
-  @predefined1
+  @predefined1 @regression @smoketest
 
   Scenario: Search Engine for Google
     Given I open url "https://www.google.com/"

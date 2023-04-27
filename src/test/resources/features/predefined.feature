@@ -4,7 +4,7 @@
 
 @predefined
 Feature: Search Engine scenarios
-  @predefined1 @regression @smoketest
+   @smoketest
 
   Scenario: Search Engine for Google
     Given I open url "https://www.google.com/"
